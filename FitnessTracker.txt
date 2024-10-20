@@ -1,1 +1,0 @@
-The Fitness Tracker is a simple command-line application developed in Python that allows users to log and manage their workout activities. It enables users to input workout details, including date, type of exercise, duration, and calories burned. The application stores this information in a JSON file, ensuring data persistence between sessions.

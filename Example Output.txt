@@ -1,0 +1,70 @@
+--- Fitness Tracker ---
+
+1. Log a Workout
+2. View Workout History
+3. Calculate Total Calories Burned
+4. Exit
+
+Enter your choice: 1
+---------------------------
+Log a Workout
+---------------------------
+Enter workout date (YYYY-MM-DD): 2024-10-20
+Enter type of exercise: Running
+Enter duration in minutes: 30
+Enter calories burned: 300
+Workout logged successfully!
+
+--- Fitness Tracker ---
+
+1. Log a Workout
+2. View Workout History
+3. Calculate Total Calories Burned
+4. Exit
+
+Enter your choice: 1
+---------------------------
+Log a Workout
+---------------------------
+Enter workout date (YYYY-MM-DD): 2024-10-21
+Enter type of exercise: Cycling
+Enter duration in minutes: 45
+Enter calories burned: 450
+Workout logged successfully!
+
+--- Fitness Tracker ---
+
+1. Log a Workout
+2. View Workout History
+3. Calculate Total Calories Burned
+4. Exit
+
+Enter your choice: 2
+---------------------------
+Workout History
+---------------------------
+1. Date: 2024-10-20, Exercise: Running, Duration: 30 minutes, Calories Burned: 300
+2. Date: 2024-10-21, Exercise: Cycling, Duration: 45 minutes, Calories Burned: 450
+
+--- Fitness Tracker ---
+
+1. Log a Workout
+2. View Workout History
+3. Calculate Total Calories Burned
+4. Exit
+
+Enter your choice: 3
+---------------------------
+Total Calories Burned
+---------------------------
+Total calories burned: 750
+
+--- Fitness Tracker ---
+
+1. Log a Workout
+2. View Workout History
+3. Calculate Total Calories Burned
+4. Exit
+
+Enter your choice: 4
+Exiting program. Thank you for using the Fitness Tracker!
